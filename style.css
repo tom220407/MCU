@@ -116,12 +116,28 @@ header button{
             }
             .main .content2 .card .left img{
                 height:300px;
-                margin-top: 5px;
+                margin-top: 20px;
                 border-radius: 10px;
                 margin-right: 20px;
                 margin-left: 10px;
                 box-shadow: 10px 5px 5px #b55402;
             }
+                .main .content2 .card .left1 img{
+                    height:300px;
+                    margin-top: 20px;
+                    border-radius: 10px;
+                    margin-right: 20px;
+                    margin-left: 10px;
+                    box-shadow: 10px 5px 5px #021b43;
+                }
+                .main .content2 .card .left2 img{
+                    height:300px;
+                    margin-top: 20px;
+                    border-radius: 10px;
+                    margin-right: 20px;
+                    margin-left: 10px;
+                    box-shadow: 10px 5px 5px #ad0725;
+                }
 
 footer{
     margin-top: 40px;
